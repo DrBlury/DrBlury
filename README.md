@@ -17,6 +17,7 @@ My passion lies in learning and utilizing the latest technologies to create high
 ### Main Development Stack
 
 #### Tools
+<div>
 <ul style="lust-style: square">
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title= "Git" alt="Git" width="40" height="40"/>&nbsp; Git</li>
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title= "GitHub" alt="GitHub" width="40" height="40"/>&nbsp; Github</li>
@@ -24,11 +25,13 @@ My passion lies in learning and utilizing the latest technologies to create high
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" title= "Vagrant" alt="Vagrant" width="40" height="40"/>&nbsp; Vagrant</li>
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title= "Slack" alt="Slack" width="40" height="40"/>&nbsp; Slack</li>
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" title= "Confluence" alt="Confluence" width="40" height="40"/>&nbsp; Confluence</li>
-    <li><img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title= "Markdown" alt="Markdown" width="40" height="40"/>&nbsp; Markdown</li>
+    <li><img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title= "Markdown" alt="Markdown" width="40" height="40"/>&nbsp; Markdown</li>
 <ul>
 <br>
+</div>
 
 #### Backend
+<div>
 <ul style="list-style: square"> 
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp; Golang : 9.5/10 ⭐⭐⭐⭐</li>
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title= "Docker" alt="Docker" width="40" height="40"/>&nbsp; Docker : 10/10 ⭐⭐⭐⭐⭐</li>
@@ -36,8 +39,10 @@ My passion lies in learning and utilizing the latest technologies to create high
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/hugo/hugo-original.svg" title= "Hugo" alt="Hugo" width="40" height="40"/>&nbsp; Hugo : 7/10 ⭐⭐⭐⭐</li>
 </ul>
 <br>
+</div>
 
 #### Frontend
+<div>
 <ul style="list-style: square"> 
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title= "Javascript" alt="Javascript" width="40" height="40"/>&nbsp; Javascript : 7/10 ⭐⭐⭐</li>
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title= "HTML" alt="HTML" width="40" height="40"/>&nbsp; HTML : 6/10 ⭐⭐⭐</li>
@@ -47,8 +52,10 @@ My passion lies in learning and utilizing the latest technologies to create high
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title= "Dart" alt="Dart" width="40" height="40"/>&nbsp; Dart : 6/10 ⭐⭐⭐</li>
 </ul>
 <br>
+</div>
 
 #### Infrastructure
+<div>
 <ul style="list-style: square">
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title= "Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp; Kubernetes : 8/10 ⭐⭐⭐⭐</li>
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title= "Ansible" alt="Ansible" width="40" height="40"/>&nbsp; Ansible : 8/10 ⭐⭐⭐⭐</li>
@@ -58,3 +65,4 @@ My passion lies in learning and utilizing the latest technologies to create high
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title= "Grafana" alt="Grafana" width="40" height="40"/>&nbsp; Grafana : 6/10 ⭐⭐⭐</li>
 </ul>
 <br>
+</div>
