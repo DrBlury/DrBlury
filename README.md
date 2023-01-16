@@ -66,3 +66,6 @@ My passion lies in learning and utilizing the latest technologies to create high
 </ul>
 <br>
 </div>
+
+### Blog posts:
+I have also written a few blog posts. [Check here!](https://home.linuxcode.net/learn/)
