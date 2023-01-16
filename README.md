@@ -6,7 +6,7 @@ Is software development an art or a science? And what do the origins of the term
 
 ### Skills and Experience:
 
-####Holopin Board:
+#### Holopin Board:
 [![@drblury's Holopin board](https://holopin.io/api/user/board?user=drblury)](https://holopin.io/@drblury)
 
 ### Professional Summary:
@@ -15,7 +15,7 @@ As a professional software developer, I have experience in Go and cloud native d
 
 ### Main Development Stack
 
-####Backend
+#### Backend
 
     Golang : 9.5/10 ⭐⭐⭐⭐
     Docker : 10/10 ⭐⭐⭐⭐⭐
@@ -23,7 +23,7 @@ As a professional software developer, I have experience in Go and cloud native d
     Drone : 8/10 ⭐⭐⭐⭐
     Linux : 9/10 ⭐⭐⭐⭐
 
-####Frontend
+#### Frontend
 
     Javascript : 7/10 ⭐⭐⭐
     HTML : 6/10 ⭐⭐⭐
@@ -31,7 +31,7 @@ As a professional software developer, I have experience in Go and cloud native d
     VueJS (2) : 8/10 ⭐⭐⭐⭐
     Flutter : 6/10 ⭐⭐⭐
 
-####Infrastructure
+#### Infrastructure
 
     Kubernetes : 8/10 ⭐⭐⭐⭐
     Ansible : 8/10 ⭐⭐⭐⭐
