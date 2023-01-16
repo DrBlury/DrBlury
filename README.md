@@ -20,24 +20,23 @@ As a professional software developer, I have experience in Go and cloud native d
 Main Development Stack
 Backend
 
-    Golang : 9.5/10 :star::star::star::star::star:
-    Docker : 10/10 :star::star::star::star::star:
-    GNU Make : 9/10 :star::star::star::star:
-    Drone : 8/10 :star::star::star::star:
-    Linux : 9/10 :star::star::star::star:
+    Golang : 9.5/10 ⭐⭐⭐⭐
+    Docker : 10/10 ⭐⭐⭐⭐⭐
+    GNU Make : 9/10 ⭐⭐⭐⭐
+    Drone : 8/10 ⭐⭐⭐⭐
+    Linux : 9/10 ⭐⭐⭐⭐
 
 Frontend
 
-    Javascript : 7/10 :star::star::star:
-    HTML : 6/10 :star::star::star:
-    CSS : 4/10 :star::star:
-    VueJS (2) : 8/10 :star::star::star::star:
-    Flutter : 6/10 :star::star::star:
+    Javascript : 7/10 ⭐⭐⭐
+    HTML : 6/10 ⭐⭐⭐
+    CSS : 4/10 ⭐⭐
+    VueJS (2) : 8/10 ⭐⭐⭐⭐
+    Flutter : 6/10 ⭐⭐⭐
 
 Infrastructure
 
-    Kubernetes : 8/10 :star::star::star::star:
-    Ansible : 8/10 :star::star::star::star:
-    Terraform : 8/10 :star::star::star::star:
-    AWS : 8/10 :star::star::star::star:
-    Azure : 8/10 :star::star::star::star:
+    Kubernetes : 8/10 ⭐⭐⭐⭐
+    Ansible : 8/10 ⭐⭐⭐⭐
+    Terraform : 8/10 ⭐⭐⭐⭐
+    AWS : 8/10 ⭐⭐⭐⭐
