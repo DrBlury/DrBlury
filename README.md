@@ -17,14 +17,16 @@ My passion lies in learning and utilizing the latest technologies to create high
 ### Main Development Stack
 
 #### Tools
-
 <ul style="lust-style: square">
-    <li><img src="" title= "Make" alt="Make" width="40" height="40"/>&nbsp; GNU Make : 9/10 ⭐⭐⭐⭐</li>
-    <li><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title= "Git" alt="Git" width="40" height="40"/>&nbsp; Git : 8/10 ⭐⭐⭐⭐</li>
-    <li><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title= "GitHub" alt="GitHub" width="40" height="40"/>&nbsp; Github : 7/10 ⭐⭐⭐⭐</li>
-    <li><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title= "VS Code" alt="VS Code" width="40" height="40"/>&nbsp; VS Code : 10/10 ⭐⭐⭐⭐</li>
-
+    <li><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title= "Git" alt="Git" width="40" height="40"/>&nbsp; Git</li>
+    <li><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title= "GitHub" alt="GitHub" width="40" height="40"/>&nbsp; Github</li>
+    <li><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title= "VS Code" alt="VS Code" width="40" height="40"/>&nbsp; VS Code</li>
+    <li><img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" title= "Vagrant" alt="Vagrant" width="40" height="40"/>&nbsp; Vagrant</li>
+    <li><img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title= "Slack" alt="Slack" width="40" height="40"/>&nbsp; Slack</li>
+    <li><img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" title= "Confluence" alt="Confluence" width="40" height="40"/>&nbsp; Confluence</li>
+    <li><img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title= "Markdown" alt="Markdown" width="40" height="40"/>&nbsp; Markdown</li>
 <ul>
+<br>
 
 #### Backend
 <ul style="list-style: square"> 
@@ -33,22 +35,26 @@ My passion lies in learning and utilizing the latest technologies to create high
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title= "Linux" alt="Linux" width="40" height="40"/>&nbsp; Linux : 9/10 ⭐⭐⭐⭐</li>
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/hugo/hugo-original.svg" title= "Hugo" alt="Hugo" width="40" height="40"/>&nbsp; Hugo : 7/10 ⭐⭐⭐⭐</li>
 </ul>
+<br>
 
 #### Frontend
 <ul style="list-style: square"> 
-    <li><img src="" title= "Javascript" alt="Javascript" width="40" height="40"/>&nbsp; Javascript : 7/10 ⭐⭐⭐</li>
+    <li><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title= "Javascript" alt="Javascript" width="40" height="40"/>&nbsp; Javascript : 7/10 ⭐⭐⭐</li>
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title= "HTML" alt="HTML" width="40" height="40"/>&nbsp; HTML : 6/10 ⭐⭐⭐</li>
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title= "VueJS" alt="VueJS" width="40" height="40"/>&nbsp; VueJS (2) : 8/10 ⭐⭐⭐⭐</li>
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" title= "Vuetify" alt="Vuetify" width="40" height="40"/>&nbsp; Vuetify (2) : 7/10 ⭐⭐⭐⭐</li>
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title= "Flutter" alt="Flutter" width="40" height="40"/>&nbsp; Flutter : 6/10 ⭐⭐⭐</li>
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title= "Dart" alt="Dart" width="40" height="40"/>&nbsp; Dart : 6/10 ⭐⭐⭐</li>
 </ul>
+<br>
 
 #### Infrastructure
 <ul style="list-style: square">
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title= "Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp; Kubernetes : 8/10 ⭐⭐⭐⭐</li>
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title= "Ansible" alt="Ansible" width="40" height="40"/>&nbsp; Ansible : 8/10 ⭐⭐⭐⭐</li>
-    <li><img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title= "Terraform" alt="Terraform" width="40" height="40"/>&nbsp; Terraform : 8/10 ⭐⭐⭐⭐</li>
-    <li><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title= "AWS" alt="AWS" width="40" height="40"/>&nbsp; AWS : 8/10 ⭐⭐⭐⭐</li>
+    <li><img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title= "Terraform" alt="Terraform" width="40" height="40"/>&nbsp; Terraform : 7/10 ⭐⭐⭐</li>
+    <li><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title= "AWS" alt="AWS" width="40" height="40"/>&nbsp; AWS : 8/10 ⭐⭐⭐⭐ (depending on the services used, 8 for most usecases)</li>
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title= "Kafka" alt="Kafka" width="40" height="40"/>&nbsp; Apache Kafka : 9/10 ⭐⭐⭐⭐</li>
+    <li><img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title= "Grafana" alt="Grafana" width="40" height="40"/>&nbsp; Grafana : 6/10 ⭐⭐⭐</li>
 </ul>
+<br>
