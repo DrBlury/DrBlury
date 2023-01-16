@@ -3,7 +3,13 @@
 
 ## Philosophical Approach to Software Development
 
-Is 'software architecture' the right term to describe the process of creating software? Or should we think of it as a philosophical endeavor, where the role of a 'software philosopher' is to navigate the complexities of problem-solving and design, much like a philosopher navigates the complexities of human existence. In this light, perhaps the true goal of software development is not just to create functional programs, but to understand and improve the human experience through technology.
+Is 'software architecture' the right term to describe the structure of software? What even is software development? Are we really called software developers or how would we describe ourselves? 
+
+Maybe we should think of it as a philosophical endeavor, where the role of a 'software philosopher' is to navigate the complexities of problem-solving and design, much like a philosopher navigates the complexities of human existence. 
+
+In this light, perhaps the true goal of software development is not just to create functional programs, but to understand and improve the human experience through technology.
+
+--- 
 
 Is software development an art or a science? And what do the origins of the terms 'software engineering' and 'software development' say about its true nature?
 
