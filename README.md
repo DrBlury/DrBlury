@@ -19,12 +19,14 @@ My passion lies in learning and utilizing the latest technologies to create high
 ### Main Development Stack
 
 #### Backend
-<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>Golang : 9.5/10 ⭐⭐⭐⭐
-Docker : 10/10 ⭐⭐⭐⭐⭐
-GNU Make : 9/10 ⭐⭐⭐⭐
-Drone : 8/10 ⭐⭐⭐⭐
-Linux : 9/10 ⭐⭐⭐⭐
-<img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Kafka" alt="Kafka" width="40" height="40"/>Kafka : 9/10 
+<ul style="list-style: square"> 
+    <li><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>Golang : 9.5/10 ⭐⭐⭐⭐</li>
+    <li><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title= "Docker" alt="Docker" width="40" height="40"/>Docker : 10/10 ⭐⭐⭐⭐⭐</li>
+    <li><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title= "Linux" alt="Linux" width="40" height="40"/>Linux : 9/10 ⭐⭐⭐⭐</li>
+    <li><img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title= "Kafka" alt="Kafka" width="40" height="40"/>Apache Kafka : 9/10 ⭐⭐⭐⭐</li>
+    <li><img src="" title= "Make" alt="Make" width="40" height="40"/>GNU Make : 9/10 ⭐⭐⭐⭐</li>
+    <li><img src="" title= "Drone" alt="Drone" width="40" height="40"/>Drone : 8/10 ⭐⭐⭐⭐</li>
+</ul>
 
 #### Frontend
 
@@ -40,3 +42,7 @@ Linux : 9/10 ⭐⭐⭐⭐
     Ansible : 8/10 ⭐⭐⭐⭐
     Terraform : 8/10 ⭐⭐⭐⭐
     AWS : 8/10 ⭐⭐⭐⭐
+
+<ul style="list-style: square"> 
+    <li><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>AWS : 8/10 ⭐⭐⭐⭐</li>
+</ul>
