@@ -26,12 +26,12 @@ My passion lies in learning and utilizing the latest technologies to create high
 <div>
 <ul style="lust-style: square">
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title= "Git" alt="Git" width="40" height="40"/>&nbsp; Git</li>
-    <li><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg#gh-light-mode-only" title= "GitHub" alt="GitHub" width="40" height="40"/>&nbsp; Github</li>
+    <li><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title= "GitHub" alt="GitHub" width="40" height="40"/>&nbsp; Github</li>
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title= "VS Code" alt="VS Code" width="40" height="40"/>&nbsp; VS Code</li>
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" title= "Vagrant" alt="Vagrant" width="40" height="40"/>&nbsp; Vagrant</li>
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title= "Slack" alt="Slack" width="40" height="40"/>&nbsp; Slack</li>
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" title= "Confluence" alt="Confluence" width="40" height="40"/>&nbsp; Confluence</li>
-    <li><img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg#gh-light-mode-only" title= "Markdown" alt="Markdown" width="40" height="40"/>&nbsp; Markdown</li>
+    <li><img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title= "Markdown" alt="Markdown" width="40" height="40"/>&nbsp; Markdown</li>
 <ul>
 <br>
 </div>
