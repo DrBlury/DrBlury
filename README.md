@@ -1,5 +1,5 @@
 ## Holopin Board:
-[![@drblury's Holopin board](https://holopin.io/api/user/board?user=drblury)](https://holopin.io/@drblury)
+[![An image of @drblury's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/drblury)](https://holopin.io/@drblury)
 
 ## Philosophical Approach to Software Development
 
