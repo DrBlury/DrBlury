@@ -68,7 +68,7 @@ My passion lies in learning and utilizing the latest technologies to create high
 <ul style="list-style: square">
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title= "Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp; Kubernetes</li>
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title= "Terraform" alt="Terraform" width="40" height="40"/>&nbsp; Terraform</li>
-    <li><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title= "AWS" alt="AWS" width="40" height="40"/>&nbsp; AWS</li>
+    <li><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title= "AWS" alt="AWS" width="40" height="40"/>&nbsp; AWS</li>
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title= "Kafka" alt="Kafka" width="40" height="40"/>&nbsp; Apache Kafka</li>
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title= "Grafana" alt="Grafana" width="40" height="40"/>&nbsp; Grafana</li>
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/proxmox/proxmox-original.svg" title= "Proxmox" alt="Proxmox" width="40" height="40"/>&nbsp; Proxmox</li>
