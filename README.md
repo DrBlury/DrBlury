@@ -28,8 +28,6 @@ My passion lies in learning and utilizing the latest technologies to create high
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title= "Git" alt="Git" width="40" height="40"/>&nbsp; Git</li>
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title= "VS Code" alt="VS Code" width="40" height="40"/>&nbsp; VS Code</li>
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" title= "Vagrant" alt="Vagrant" width="40" height="40"/>&nbsp; Vagrant</li>
-    <li><img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title= "Slack" alt="Slack" width="40" height="40"/>&nbsp; Slack</li>
-    <li><img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" title= "Confluence" alt="Confluence" width="40" height="40"/>&nbsp; Confluence</li>
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title= "Markdown" alt="Markdown" width="40" height="40"/>&nbsp; Markdown</li>
 <ul>
 <br>
@@ -41,15 +39,26 @@ My passion lies in learning and utilizing the latest technologies to create high
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp; Golang</li>
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title= "Docker" alt="Docker" width="40" height="40"/>&nbsp; Docker</li>
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title= "Linux" alt="Linux" width="40" height="40"/>&nbsp; Linux</li>
+    <li><img src="https://github.com/devicons/devicon/blob/master/icons/openapi/openapi-original.svg" title= "OpenAPI" alt="OpenAPI", width="40"/>&nbsp; OpenAPI</li>
+    <li><img src="https://github.com/devicons/devicon/blob/master/icons/grpc/grpc-original.svg" title= "gRPC" alt="gRPC", width="40"/>&nbsp; gRPC</li>
+    <li><img src="https://github.com/devicons/devicon/blob/master/icons/openapi/openapi-original.svg" title= "OpenTelemetry" alt="OpenTelemetry", width="40"/>&nbsp; OpenTelemetry</li>
 </ul>
 <br>
+</div>
+
+#### Database
+<div>
+<ul style="list-style: square">
+    <li><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp; PostgreSQL</li>
+    <li><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp; MongoDB</li>
+</ul>
 </div>
 
 #### Frontend
 <div>
 <ul style="list-style: square"> 
-    <li><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title= "Javascript" alt="Javascript" width="40" height="40"/>&nbsp; Javascript/HTML/CSS</li>
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title= "Typescript" alt="Typescript" width="40" height="40"/>&nbsp; Typescript</li>
+    <li><img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" title= "Svelte" alt="Svelte" width="40" height="40"/>&nbsp; Svelte</li>
 </ul>
 <br>
 </div>
@@ -58,11 +67,12 @@ My passion lies in learning and utilizing the latest technologies to create high
 <div>
 <ul style="list-style: square">
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title= "Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp; Kubernetes</li>
-    <li><img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg#gh-light-mode-only" title= "Ansible" alt="Ansible" width="40" height="40"/>&nbsp; Ansible</li>
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title= "Terraform" alt="Terraform" width="40" height="40"/>&nbsp; Terraform</li>
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title= "AWS" alt="AWS" width="40" height="40"/>&nbsp; AWS</li>
-    <li><img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg#gh-light-mode-only" title= "Kafka" alt="Kafka" width="40" height="40"/>&nbsp; Apache Kafka</li>
+    <li><img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title= "Kafka" alt="Kafka" width="40" height="40"/>&nbsp; Apache Kafka</li>
     <li><img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title= "Grafana" alt="Grafana" width="40" height="40"/>&nbsp; Grafana</li>
+    <li><img src="https://github.com/devicons/devicon/blob/master/icons/proxmox/proxmox-original.svg" title= "Proxmox" alt="Proxmox" width="40" height="40"/>&nbsp; Proxmox</li>
+    <li><img src="https://github.com/devicons/devicon/blob/master/icons/traefikproxy/traefikproxy-original.svg" title= "Traefik" alt="Traefik" width="40" height="40"/>&nbsp; Traefik</li>
 </ul>
 <br>
 </div>
