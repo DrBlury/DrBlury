@@ -130,19 +130,6 @@ We are **software philosophers**: professionals who not only construct functiona
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DrBlury&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrBlury&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DrBlury&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-
-</div>
-
----
-
 ## 🎯 Beyond the Code
 
 When I'm not architecting systems or writing code:
