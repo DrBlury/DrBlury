@@ -19,6 +19,41 @@ Full-stack software engineer specializing in cloud-native development and modern
 
 ---
 
+## 🌟 Featured Projects
+
+Explore my pet projects that showcase my skills in building modern, event-driven microservices:
+
+<div align="center">
+
+### [Protoflow](https://github.com/DrBlury/protoflow)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DrBlury/protoflow)
+
+**Eventing - built on Watermill with batteries included**
+
+A powerful event-driven framework for Go that simplifies building event-driven microservices with built-in best practices.
+
+---
+
+### [Apiweaver](https://github.com/DrBlury/apiweaver)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DrBlury/apiweaver)
+
+**OAPI-driven API scaffolding — fast, consistent, batteries included**
+
+An OpenAPI-driven framework for rapidly building consistent and production-ready REST APIs in Go.
+
+---
+
+### [Event-Driven Service Example](https://github.com/DrBlury/Event-Driven-Service-Example)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DrBlury/Event-Driven-Service-Example)
+
+**Real-world example service using Protoflow and Apiweaver**
+
+A complete example demonstrating how to build event-driven microservices using both Protoflow and Apiweaver frameworks.
+
+</div>
+
+---
+
 ## 💻 Technical Expertise
 
 <div align="center">
