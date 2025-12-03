@@ -19,6 +19,22 @@ Full-stack software engineer specializing in cloud-native development and modern
 
 ---
 
+## 💭 Philosophy
+
+> *Software development transcends the dichotomy of art versus science — it embodies both.*
+
+We are **software philosophers**: professionals who not only construct functional programs but seek to understand and enhance the human experience through technology. This perspective challenges us to continuously question established patterns, optimize relentlessly, and view each line of code as an opportunity to positively impact people's lives.
+
+---
+
+## 🎯 Beyond the Code
+
+When I'm not architecting systems or writing code:
+
+🐱 Cat enthusiast • 🍳 Cooking • 🧗 Bouldering • ✈️ Traveling • 📸 Photography • 🖥️ Homelab • 🎮 Gaming
+
+---
+
 ## 🌟 Featured Projects
 
 Explore my pet projects that showcase my skills in building modern, event-driven microservices:
@@ -119,22 +135,6 @@ A complete example demonstrating how to build event-driven microservices using b
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
-
----
-
-## 💭 Philosophy
-
-> *Software development transcends the dichotomy of art versus science — it embodies both.*
-
-We are **software philosophers**: professionals who not only construct functional programs but seek to understand and enhance the human experience through technology. This perspective challenges us to continuously question established patterns, optimize relentlessly, and view each line of code as an opportunity to positively impact people's lives.
-
----
-
-## 🎯 Beyond the Code
-
-When I'm not architecting systems or writing code:
-
-🐱 Cat enthusiast • 🍳 Cooking • 🧗 Bouldering • ✈️ Traveling • 📸 Photography • 🖥️ Homelab • 🎮 Gaming
 
 ---
 
