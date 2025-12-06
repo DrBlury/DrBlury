@@ -65,7 +65,7 @@ An OpenAPI-driven framework for rapidly building consistent and production-ready
 ✨ **Top 3 Features:**
 - 📝 **Spec-First Development** — Generate production-ready code from OpenAPI specs with zero boilerplate
 - ✅ **Built-In Validation** — Automatic request/response validation against your OpenAPI schema
-- 🎭 **Mock Server Magic** — Instant mock API server for frontend development before backend is ready
+- 🔧 **Smart Middleware Stack** — Pre-configured observability, error handling, and logging ready to go
 
 ---
 
