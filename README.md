@@ -86,14 +86,14 @@ A complete example demonstrating how to build event-driven microservices using b
 ### [Hatch](https://github.com/DrBlury/hatch)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DrBlury/hatch)
 
-**Modern Python project management — streamlined, standardized, supercharged**
+**Event-driven Go project scaffolding — from zero to production-ready in minutes**
 
-Contributing to the all-in-one Python project manager that eliminates tool sprawl with unified workflows.
+A powerful scaffolding tool that generates event-driven Go microservices from scratch with an intuitive TUI for rapid development.
 
 ✨ **Top 3 Features:**
-- 🚀 **Zero-Config Simplicity** — Sensible defaults that get you coding faster without complex configuration
-- 🔄 **Environment Isolation** — Seamless virtual environment management with reproducible builds
-- ⚡ **Extensible Plugin System** — Customize your workflow with a rich ecosystem of plugins
+- 🎨 **Beautiful TUI** — Interactive terminal interface to add handlers, events, and components on the fly
+- 📦 **Template-Powered** — Generate boilerplate-free code using smart templates for event-driven patterns
+- ⚡ **Instant Scaffolding** — Bootstrap complete event-driven Go projects with best practices baked in
 
 ---
 
