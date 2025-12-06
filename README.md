@@ -106,8 +106,8 @@ Essential toolkit for Protocol Buffers development with comprehensive language s
 
 ✨ **Top 3 Features:**
 - 💎 **Rich Syntax Highlighting** — Beautiful, semantic coloring for proto2/proto3 that makes schemas readable
-- 🎯 **Smart Intellisense** — Auto-completion for types, fields, and options with instant documentation
-- 🔧 **One-Click Formatting** — Consistent proto file styling with integrated buf formatter support
+- 🧭 **Smart Navigation** — Jump to type definitions and navigate references across your entire proto schema
+- 📊 **Schema Graph Visualization** — Interactive graph view to explore message relationships and dependencies
 
 </div>
 
