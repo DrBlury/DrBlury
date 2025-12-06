@@ -48,6 +48,11 @@ Explore my pet projects that showcase my skills in building modern, event-driven
 
 A powerful event-driven framework for Go that simplifies building event-driven microservices with built-in best practices.
 
+✨ **Top 3 Features:**
+- 🌊 **Watermill-Powered Core** — Built on battle-tested Watermill foundation with enhanced developer experience
+- 🔌 **Plug-and-Play Middleware** — Pre-configured observability, retries, and error handling out of the box
+- 📦 **Type-Safe Events** — Protobuf-first design ensures compile-time safety and seamless serialization
+
 ---
 
 ### [Apiweaver](https://github.com/DrBlury/apiweaver)
@@ -57,6 +62,11 @@ A powerful event-driven framework for Go that simplifies building event-driven m
 
 An OpenAPI-driven framework for rapidly building consistent and production-ready REST APIs in Go.
 
+✨ **Top 3 Features:**
+- 📝 **Spec-First Development** — Generate production-ready code from OpenAPI specs with zero boilerplate
+- 🎨 **Multi-UI Support** — Deploy Swagger, Stoplight, and other web UIs with a single configuration line
+- 🔧 **Batteries Included** — Health probes, middleware stack, and observability built-in from day one
+
 ---
 
 ### [Event-Driven Service Example](https://github.com/DrBlury/Event-Driven-Service-Example)
@@ -65,6 +75,39 @@ An OpenAPI-driven framework for rapidly building consistent and production-ready
 **Real-world example service using Protoflow and Apiweaver**
 
 A complete example demonstrating how to build event-driven microservices using both Protoflow and Apiweaver frameworks.
+
+✨ **Top 3 Features:**
+- 🏗️ **Production Blueprint** — Copy-paste architecture for real-world microservices with best practices
+- 🔗 **Framework Integration** — See Protoflow and Apiweaver working together in harmony
+- 📚 **Learning Resource** — Comprehensive examples with detailed comments and documentation
+
+---
+
+### [Hatch](https://github.com/DrBlury/hatch)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DrBlury/hatch)
+
+**Event-driven Go project scaffolding — from zero to production-ready in minutes**
+
+A powerful scaffolding tool that generates event-driven Go microservices from scratch with an intuitive TUI for rapid development.
+
+✨ **Top 3 Features:**
+- 🎨 **Beautiful TUI** — Interactive terminal interface to add handlers, events, and components on the fly
+- 📦 **Template-Powered** — Generate boilerplate-free code using smart templates for event-driven patterns
+- ⚡ **Instant Scaffolding** — Bootstrap complete event-driven Go projects with best practices baked in
+
+---
+
+### [Protobuf VSC](https://github.com/DrBlury/protobuf-vsc)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DrBlury/protobuf-vsc)
+
+**VS Code extension for Protobuf — syntax highlighting, formatting, intelligence**
+
+Essential toolkit for Protocol Buffers development with comprehensive language support and smart features.
+
+✨ **Top 3 Features:**
+- 💎 **Rich Syntax Highlighting** — Beautiful, semantic coloring for proto2/proto3 that makes schemas readable
+- 🧭 **Smart Navigation** — Jump to type definitions and navigate references across your entire proto schema
+- 📊 **Schema Graph Visualization** — Interactive graph view to explore message relationships and dependencies
 
 </div>
 
