@@ -64,8 +64,8 @@ An OpenAPI-driven framework for rapidly building consistent and production-ready
 
 ✨ **Top 3 Features:**
 - 📝 **Spec-First Development** — Generate production-ready code from OpenAPI specs with zero boilerplate
-- ✅ **Built-In Validation** — Automatic request/response validation against your OpenAPI schema
-- 🔧 **Smart Middleware Stack** — Pre-configured observability, error handling, and logging ready to go
+- 🎨 **Multi-UI Support** — Deploy Swagger, Stoplight, and other web UIs with a single configuration line
+- 🔧 **Batteries Included** — Health probes, middleware stack, and observability built-in from day one
 
 ---
 
