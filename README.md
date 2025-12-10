@@ -53,8 +53,6 @@ Essential toolkit for Protocol Buffers development with comprehensive language s
 - 🧭 **Smart Navigation** — Jump to type definitions and navigate references across your entire proto schema
 - 📊 **Schema Graph Visualization** — Interactive graph view to explore message relationships and dependencies
 
-</div>
-
 ---
 
 ### [Protoflow](https://github.com/DrBlury/protoflow)
@@ -112,6 +110,7 @@ A powerful scaffolding tool that generates event-driven Go microservices from sc
 - ⚡ **Instant Scaffolding** — Bootstrap complete event-driven Go projects with best practices baked in
 
 ---
+</div>
 
 ## 💻 Technical Expertise
 
