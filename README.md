@@ -31,7 +31,7 @@ We are **software philosophers**: professionals who not only construct functiona
 
 When I'm not architecting systems or writing code:
 
-🐱 Cat enthusiast • 🍳 Cooking • 🧗 Bouldering • ✈️ Traveling • 📸 Photography • 🖥️ Homelab • 🎮 Gaming
+🐱 Cat enthusiast • 🍳 Cooking • 🔬 Soldering • ✈️ Traveling • </> Coding • 🗄️ Homelab • 🎮 Gaming
 
 ---
 
@@ -40,6 +40,22 @@ When I'm not architecting systems or writing code:
 Explore my pet projects that showcase my skills in building modern, event-driven microservices:
 
 <div align="center">
+
+### [Protobuf VSC](https://github.com/DrBlury/protobuf-vsc)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DrBlury/protobuf-vsc)
+
+**VS Code extension for Protobuf — syntax highlighting, formatting, intelligence**
+
+Essential toolkit for Protocol Buffers development with comprehensive language support and smart features.
+
+✨ **Top 3 Features:**
+- 💎 **Rich Syntax Highlighting** — Beautiful, semantic coloring for proto2/proto3 that makes schemas readable
+- 🧭 **Smart Navigation** — Jump to type definitions and navigate references across your entire proto schema
+- 📊 **Schema Graph Visualization** — Interactive graph view to explore message relationships and dependencies
+
+</div>
+
+---
 
 ### [Protoflow](https://github.com/DrBlury/protoflow)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DrBlury/protoflow)
@@ -94,22 +110,6 @@ A powerful scaffolding tool that generates event-driven Go microservices from sc
 - 🎨 **Beautiful TUI** — Interactive terminal interface to add handlers, events, and components on the fly
 - 📦 **Template-Powered** — Generate boilerplate-free code using smart templates for event-driven patterns
 - ⚡ **Instant Scaffolding** — Bootstrap complete event-driven Go projects with best practices baked in
-
----
-
-### [Protobuf VSC](https://github.com/DrBlury/protobuf-vsc)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DrBlury/protobuf-vsc)
-
-**VS Code extension for Protobuf — syntax highlighting, formatting, intelligence**
-
-Essential toolkit for Protocol Buffers development with comprehensive language support and smart features.
-
-✨ **Top 3 Features:**
-- 💎 **Rich Syntax Highlighting** — Beautiful, semantic coloring for proto2/proto3 that makes schemas readable
-- 🧭 **Smart Navigation** — Jump to type definitions and navigate references across your entire proto schema
-- 📊 **Schema Graph Visualization** — Interactive graph view to explore message relationships and dependencies
-
-</div>
 
 ---
 
