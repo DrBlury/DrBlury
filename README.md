@@ -41,8 +41,8 @@ Explore my pet projects that showcase my skills in building modern, event-driven
 
 <div align="center">
 
-### [Protobuf VSC](https://github.com/DrBlury/protobuf-vsc)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DrBlury/protobuf-vsc)
+### [Protobuf VSC](https://github.com/DrBlury/protobuf-vsc-extension)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DrBlury/protobuf-vsc-extension)
 
 **VS Code extension for Protobuf — syntax highlighting, formatting, intelligence**
 
