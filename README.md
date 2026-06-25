@@ -15,7 +15,7 @@
 
 Full-stack software engineer specializing in cloud-native development and modern web technologies. Expert in Go backend services, microservices architecture, and cutting-edge frontend frameworks. Passionate about building robust, scalable software solutions with clean code principles and efficient architecture design.
 
-**Languages:** 🇬🇧 English (Fluent) | 🇩🇪 German (Fluent) | 🇨🇳 Chinese (Basic)
+**Languages:** 🇬🇧 English (C2) | 🇩🇪 German (Fluent) | 🇨🇳 Chinese (HSK2-3)
 
 ---
 
